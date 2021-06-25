@@ -15,6 +15,7 @@
 		999C8E792685D00C00418C31 /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999C8E782685D00C00418C31 /* MainTabBarViewController.swift */; };
 		999C8E7B2685D08A00418C31 /* MoviesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999C8E7A2685D08A00418C31 /* MoviesTableViewController.swift */; };
 		999C8E7D2685D0B400418C31 /* MusicTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999C8E7C2685D0B400418C31 /* MusicTableViewController.swift */; };
+		999C8E7F2685D67700418C31 /* MediaContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999C8E7E2685D67700418C31 /* MediaContent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		999C8E782685D00C00418C31 /* MainTabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarViewController.swift; sourceTree = "<group>"; };
 		999C8E7A2685D08A00418C31 /* MoviesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesTableViewController.swift; sourceTree = "<group>"; };
 		999C8E7C2685D0B400418C31 /* MusicTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicTableViewController.swift; sourceTree = "<group>"; };
+		999C8E7E2685D67700418C31 /* MediaContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaContent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				999C8E782685D00C00418C31 /* MainTabBarViewController.swift */,
 				999C8E7A2685D08A00418C31 /* MoviesTableViewController.swift */,
 				999C8E7C2685D0B400418C31 /* MusicTableViewController.swift */,
+				999C8E7E2685D67700418C31 /* MediaContent.swift */,
 				999C8E6A2685CC7300418C31 /* Main.storyboard */,
 				999C8E6D2685CC7500418C31 /* Assets.xcassets */,
 				999C8E6F2685CC7500418C31 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 			files = (
 				999C8E7B2685D08A00418C31 /* MoviesTableViewController.swift in Sources */,
 				999C8E792685D00C00418C31 /* MainTabBarViewController.swift in Sources */,
+				999C8E7F2685D67700418C31 /* MediaContent.swift in Sources */,
 				999C8E7D2685D0B400418C31 /* MusicTableViewController.swift in Sources */,
 				999C8E652685CC7300418C31 /* AppDelegate.swift in Sources */,
 				999C8E672685CC7300418C31 /* SceneDelegate.swift in Sources */,
